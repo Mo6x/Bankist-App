@@ -1,0 +1,22 @@
+{
+  "name": "bankist-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo6x/Bankist-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mo6x/Bankist-App/issues"
+  },
+  "homepage": "https://github.com/Mo6x/Bankist-App#readme"
+}
